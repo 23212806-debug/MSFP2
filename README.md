@@ -11,8 +11,7 @@ Ingeniería Biomédica
 
 ## Docente
 
-Dr. Paul Antonio Valle Trujillo  
-paul.valle@tectijuana.edu.mx
+Dr. Paul Antonio Valle Trujillo ; paul.valle@tectijuana.edu.mx
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México.
 
