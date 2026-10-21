@@ -64,12 +64,15 @@ El modelo normotenso se utiliza como referencia para evaluar las diferencias ent
 
 ## Archivos del repositorio
 
-1. Cuaderno computacional de MATLAB (`.mlx`).
-2. Modelo de simulación en Simulink (`.slx`).
-3. Funciones utilizadas para resolver las ecuaciones diferenciales.
-4. Gráficas de las respuestas cardiovasculares.
-5. Resultados de las simulaciones para los tres casos.
-6. Archivos complementarios de análisis y control, según su implementación.
+1. Cuaderno computacional de MATLAB [.mlx y .pdf].
+2. Modelo de Simulink [.slx].
+3. Archivo de Python [.py].
+4. Imágenes con los parámetros de los controladores PID (2).
+5. Figuras de las simulaciones en Python (3) y MATLAB (3) [.pdf].
+6. Archivo con la señal de entrada [.xlsx].
+7. Desarrollo del análisis matemático [.pdf].
+8. Diagrama biológico elaborado en BioRender [.jpeg].
+9. Archivos README.md, CITATION.cff y LICENSE.
 
 ## Referencias
 
