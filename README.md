@@ -47,10 +47,10 @@ Para comparar las tres condiciones cardiovasculares se modifica únicamente el v
 
 | Parámetro | Hipotenso | Normotenso | Hipertenso |
 |---|---|---|---|
-| Z | 0.010 | 0.010 | 0.010 |
-| L | 0.001 | 0.001 | 0.001 |
-| R | 1.000 | 1.000 | 1.000 |
-| C | 3.500 | 1.500 | 1.000 |
+| Z | 0.01  | 0.01  | 0.010 |
+| L | 0.01  | 1.000 | 1.000 |
+| R | 1.000 | 0.001 | 0.001 |
+| C | 0.001 | 1.500 | 1.000 |
 
 Una mayor distensibilidad permite amortiguar las variaciones de presión, mientras que una menor distensibilidad produce respuestas de presión más pronunciadas.
 
