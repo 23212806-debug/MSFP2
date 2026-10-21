@@ -68,7 +68,7 @@ El modelo normotenso se utiliza como referencia para evaluar las diferencias ent
 2. Modelo de Simulink [.slx].
 3. Archivo de Python [.py].
 4. Imágenes con los parámetros de los controladores PID (2).
-5. Figuras de las simulaciones en Python (3) y MATLAB (3) [.pdf].
+5. Figuras de las simulaciones en Python (3) y MATLAB (4) [.pdf].
 6. Archivo con la señal de entrada [.xlsx].
 7. Desarrollo del análisis matemático [.pdf].
 8. Diagrama biológico elaborado en BioRender [.jpeg].
