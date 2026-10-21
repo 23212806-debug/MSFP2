@@ -17,11 +17,15 @@ Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de 
 
 ## Descripción de la práctica
 
-El modelado del sistema cardiovascular permite estudiar el comportamiento de la presión arterial y del flujo sanguíneo mediante modelos matemáticos basados en circuitos eléctricos equivalentes.
+El modelado del sistema cardiovascular es una herramienta importante en Ingeniería Biomédica, ya que permite comprender el comportamiento de la circulación sanguínea mediante representaciones matemáticas y circuitos eléctricos equivalentes. Estos modelos ayudan a analizar cómo interactúan la presión arterial, el flujo sanguíneo y las propiedades mecánicas de los vasos sanguíneos, así como los cambios que se presentan bajo diferentes condiciones fisiológicas.
 
-En esta práctica se utiliza el modelo Windkessel de cuatro elementos para representar la dinámica del sistema arterial y comparar tres condiciones cardiovasculares: hipotensión, normotensión e hipertensión. A través de MATLAB y Simulink se analiza cómo las variaciones en la distensibilidad arterial modifican la respuesta del sistema.
+En esta práctica se utiliza el **modelo Windkessel de cuatro elementos**, el cual representa el comportamiento dinámico del sistema arterial mediante una impedancia característica (Z), una resistencia periférica (R), una distensibilidad arterial (C) y una inertancia (L). Cada uno de estos elementos permite describir una propiedad del sistema cardiovascular y establecer una relación entre su funcionamiento fisiológico y el comportamiento de un circuito eléctrico.
 
-Además, se plantea el uso de controladores PID para reducir las diferencias entre las respuestas de los modelos hipotenso e hipertenso respecto al modelo normotenso, utilizado como referencia.
+A partir de este modelo se estudian tres condiciones cardiovasculares: **hipotensión, normotensión e hipertensión**, modificando la distensibilidad arterial para observar su influencia sobre la respuesta de presión. La condición normotensa se utiliza como referencia para identificar y comparar las diferencias en el comportamiento de los otros dos casos.
+
+Para desarrollar el análisis se emplean herramientas computacionales como **MATLAB y Simulink**, mediante las cuales se formulan las ecuaciones diferenciales del sistema, se obtienen las funciones de transferencia y se realizan simulaciones que permiten visualizar las respuestas de los modelos. También se estudian características como la estabilidad, el comportamiento transitorio y el error en estado estacionario.
+
+Finalmente, la práctica contempla el diseño e implementación de **controladores PID**, con el propósito de reducir las diferencias entre las respuestas de los modelos hipotenso e hipertenso respecto a la condición normotensa. De esta manera, se integran conocimientos de fisiología cardiovascular, circuitos eléctricos, modelado matemático y teoría de control para comprender cómo estas herramientas pueden utilizarse en el análisis y la simulación de sistemas fisiológicos.
 
 ## Objetivos
 
