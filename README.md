@@ -3,11 +3,11 @@
 
 ## Información del estudiante
 
-**Nombre:** Martínez Lozano Pedro Damián  
-**Número de control:** 23212806  
-**Correo institucional:** 23212806@tectijuana.edu.mx  
-**Asignatura:** Modelado de Sistemas Fisiológicos  
-**Carrera:** Ingeniería Biomédica
+Pedro Damian Martinez Lozano \ 23212806 ; 23212806@tectijuana.edu.mx
+
+Modelado de Sistemas Fisiológicos
+
+Ingeniería Biomédica
 
 ## Docente
 
